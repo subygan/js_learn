@@ -1,6 +1,4 @@
 ---
-layout: base
-type: page
 emoji: 📕
 title: Learning JavaScript
 description: Learning notes form axel Rauschmayer's javascript for impatient programmers
