@@ -2,8 +2,8 @@
 emoji: 📕
 title: Learning JavaScript
 description: Learning notes form axel Rauschmayer's javascript for impatient programmers
-date: yyyy-mm-dd 22:15:00
+date: 2022-11-06 6:37 am 
 ---
 
-These are my notes from following the excellent book, [javascript for impatient programmers](https://exploringjs.com/impatient-js/index.html) by axel Rauschmayer
+Javascript is a hodge podge of a bunch of tools and multiple implementations
 
