@@ -1,6 +1,6 @@
 ---
 emoji: 📕
-title: Learning JavaScript
+title: Javascript for Impatient programmers
 description: Learning notes form axel Rauschmayer's javascript for impatient programmers
 date: 2022-11-06
 layout: base
